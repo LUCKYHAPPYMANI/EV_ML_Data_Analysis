@@ -1,3 +1,0 @@
-The correlation between model year and recorded electric range is -0.294, indicating a weak negative linear association among records with a known positive range. Correlation does not establish causation.
-
-Important data limitation: zero electric-range values are treated as unknown because the source states that zero may mean the range has not been researched. Consequently, range statistics describe only records with a known positive range, not every registered EV.
