@@ -1,4 +1,5 @@
 **Electric Vehicle Population Data Analysis**
+
 A Python-based data analysis project that explores electric vehicle (EV) population records from the Washington State Open Data portal. The project performs data cleaning, descriptive statistics, covariance and correlation analysis, empirical probability analysis, and data visualization. It also includes an interactive Streamlit dashboard for exploring the dataset.
 Project scope: This project is focused on data analysis and visualization. It does not train or claim to validate an EV prediction model.
 
